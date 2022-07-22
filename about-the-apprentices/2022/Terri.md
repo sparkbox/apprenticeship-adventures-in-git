@@ -10,4 +10,4 @@ One of my favorite things about programming is it's creative and like solving pu
 The Personal Computer
 
 * Desktop, laptop, or tablet? Which do you prefer to use?
-Desktop for sure!
+Desktop for sure!!
