@@ -11,4 +11,3 @@ I don't have a great answer for that yet. I'm part of that generation that sort 
 
 * Desktop, laptop, or tablet? Which do you prefer to use?
 Laptop, but with an extra monitor :fire:
-git 
